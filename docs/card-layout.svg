@@ -1,0 +1,293 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="858" height="330" viewBox="0 0 858 330" font-family="Helvetica, Arial, sans-serif">
+<rect width="858" height="330" fill="#AEB2C3"/>
+<text x="20" y="28" font-size="16" font-weight="bold" fill="#1E2030">MIFARE Classic 1K · SectorSafe 默认开卡参数</text>
+<text x="838" y="28" text-anchor="end" font-size="12" fill="#3A3E52">HEX 32 位 · 标签 12 · 12 个槽位 · 启用安全区 · 561/752 字节</text>
+<text x="60" y="89.0" text-anchor="end" font-size="11" fill="#3A3E52">块 0</text>
+<text x="60" y="125.0" text-anchor="end" font-size="11" fill="#3A3E52">块 1</text>
+<text x="60" y="161.0" text-anchor="end" font-size="11" fill="#3A3E52">块 2</text>
+<text x="60" y="197.0" text-anchor="end" font-size="11" fill="#3A3E52">块 3</text>
+<text x="91.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S0</text>
+<rect x="70" y="70" width="42" height="30" fill="#5F6377"/>
+<polyline points="70,100 70,70 112,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="70,100 112,100 112,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="91.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">0</text>
+<rect x="70" y="106" width="42" height="30" fill="#B24D7A"/>
+<polyline points="70,136 70,106 112,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="70,136 112,136 112,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="91.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">1</text>
+<rect x="70" y="142" width="42" height="30" fill="#B24D7A"/>
+<polyline points="70,172 70,142 112,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="70,172 112,172 112,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="91.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">2</text>
+<rect x="70" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="70,208 70,178 112,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="70,208 112,208 112,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="91.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">3</text>
+<text x="139.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S1</text>
+<rect x="118" y="70" width="42" height="30" fill="#B24D7A"/>
+<polyline points="118,100 118,70 160,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="118,100 160,100 160,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="139.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">4</text>
+<rect x="118" y="106" width="42" height="30" fill="#B24D7A"/>
+<polyline points="118,136 118,106 160,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="118,136 160,136 160,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="139.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">5</text>
+<rect x="118" y="142" width="42" height="30" fill="#B24D7A"/>
+<polyline points="118,172 118,142 160,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="118,172 160,172 160,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="139.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">6</text>
+<rect x="118" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="118,208 118,178 160,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="118,208 160,208 160,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="139.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">7</text>
+<text x="187.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S2</text>
+<rect x="166" y="70" width="42" height="30" fill="#B24D7A"/>
+<polyline points="166,100 166,70 208,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="166,100 208,100 208,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="187.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">8</text>
+<rect x="166" y="106" width="42" height="30" fill="#B24D7A"/>
+<polyline points="166,136 166,106 208,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="166,136 208,136 208,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="187.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">9</text>
+<rect x="166" y="142" width="42" height="30" fill="#B24D7A"/>
+<polyline points="166,172 166,142 208,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="166,172 208,172 208,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="187.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">10</text>
+<rect x="166" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="166,208 166,178 208,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="166,208 208,208 208,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="187.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">11</text>
+<text x="235.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S3</text>
+<rect x="214" y="70" width="42" height="30" fill="#E0A800"/>
+<polyline points="214,100 214,70 256,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="214,100 256,100 256,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="235.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#2E3142">12</text>
+<rect x="214" y="106" width="42" height="30" fill="#E0A800"/>
+<polyline points="214,136 214,106 256,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="214,136 256,136 256,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="235.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#2E3142">13</text>
+<rect x="214" y="142" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="214,172 214,142 256,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="214,172 256,172 256,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="235.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">14</text>
+<rect x="214" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="214,208 214,178 256,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="214,208 256,208 256,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="235.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">15</text>
+<text x="283.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S4</text>
+<rect x="262" y="70" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="262,100 262,70 304,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="262,100 304,100 304,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="283.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">16</text>
+<rect x="262" y="106" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="262,136 262,106 304,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="262,136 304,136 304,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="283.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">17</text>
+<rect x="262" y="142" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="262,172 262,142 304,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="262,172 304,172 304,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="283.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">18</text>
+<rect x="262" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="262,208 262,178 304,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="262,208 304,208 304,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="283.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">19</text>
+<text x="331.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S5</text>
+<rect x="310" y="70" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="310,100 310,70 352,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="310,100 352,100 352,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="331.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">20</text>
+<rect x="310" y="106" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="310,136 310,106 352,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="310,136 352,136 352,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="331.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">21</text>
+<rect x="310" y="142" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="310,172 310,142 352,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="310,172 352,172 352,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="331.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">22</text>
+<rect x="310" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="310,208 310,178 352,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="310,208 352,208 352,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="331.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">23</text>
+<text x="379.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S6</text>
+<rect x="358" y="70" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="358,100 358,70 400,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="358,100 400,100 400,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="379.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">24</text>
+<rect x="358" y="106" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="358,136 358,106 400,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="358,136 400,136 400,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="379.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">25</text>
+<rect x="358" y="142" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="358,172 358,142 400,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="358,172 400,172 400,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="379.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">26</text>
+<rect x="358" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="358,208 358,178 400,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="358,208 400,208 400,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="379.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">27</text>
+<text x="427.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S7</text>
+<rect x="406" y="70" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="406,100 406,70 448,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="406,100 448,100 448,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="427.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">28</text>
+<rect x="406" y="106" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="406,136 406,106 448,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="406,136 448,136 448,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="427.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">29</text>
+<rect x="406" y="142" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="406,172 406,142 448,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="406,172 448,172 448,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="427.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">30</text>
+<rect x="406" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="406,208 406,178 448,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="406,208 448,208 448,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="427.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">31</text>
+<text x="475.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S8</text>
+<rect x="454" y="70" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="454,100 454,70 496,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="454,100 496,100 496,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="475.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">32</text>
+<rect x="454" y="106" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="454,136 454,106 496,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="454,136 496,136 496,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="475.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">33</text>
+<rect x="454" y="142" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="454,172 454,142 496,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="454,172 496,172 496,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="475.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">34</text>
+<rect x="454" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="454,208 454,178 496,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="454,208 496,208 496,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="475.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">35</text>
+<text x="523.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S9</text>
+<rect x="502" y="70" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="502,100 502,70 544,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="502,100 544,100 544,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="523.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">36</text>
+<rect x="502" y="106" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="502,136 502,106 544,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="502,136 544,136 544,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="523.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">37</text>
+<rect x="502" y="142" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="502,172 502,142 544,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="502,172 544,172 544,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="523.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">38</text>
+<rect x="502" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="502,208 502,178 544,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="502,208 544,208 544,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="523.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">39</text>
+<text x="571.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S10</text>
+<rect x="550" y="70" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="550,100 550,70 592,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="550,100 592,100 592,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="571.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">40</text>
+<rect x="550" y="106" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="550,136 550,106 592,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="550,136 592,136 592,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="571.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">41</text>
+<rect x="550" y="142" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="550,172 550,142 592,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="550,172 592,172 592,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="571.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">42</text>
+<rect x="550" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="550,208 550,178 592,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="550,208 592,208 592,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="571.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">43</text>
+<text x="619.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S11</text>
+<rect x="598" y="70" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="598,100 598,70 640,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="598,100 640,100 640,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="619.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">44</text>
+<rect x="598" y="106" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="598,136 598,106 640,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="598,136 640,136 640,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="619.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">45</text>
+<rect x="598" y="142" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="598,172 598,142 640,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="598,172 640,172 640,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="619.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">46</text>
+<rect x="598" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="598,208 598,178 640,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="598,208 640,208 640,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="619.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">47</text>
+<text x="667.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S12</text>
+<rect x="646" y="70" width="42" height="30" fill="#1FAE3C"/>
+<polyline points="646,100 646,70 688,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="646,100 688,100 688,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="667.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#FFFFFF">48</text>
+<rect x="646" y="106" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="646,136 646,106 688,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="646,136 688,136 688,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="667.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">49</text>
+<rect x="646" y="142" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="646,172 646,142 688,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="646,172 688,172 688,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="667.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">50</text>
+<rect x="646" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="646,208 646,178 688,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="646,208 688,208 688,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="667.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">51</text>
+<text x="715.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S13</text>
+<rect x="694" y="70" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="694,100 694,70 736,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="694,100 736,100 736,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="715.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">52</text>
+<rect x="694" y="106" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="694,136 694,106 736,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="694,136 736,136 736,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="715.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">53</text>
+<rect x="694" y="142" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="694,172 694,142 736,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="694,172 736,172 736,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="715.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">54</text>
+<rect x="694" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="694,208 694,178 736,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="694,208 736,208 736,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="715.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">55</text>
+<text x="763.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S14</text>
+<rect x="742" y="70" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="742,100 742,70 784,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="742,100 784,100 784,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="763.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">56</text>
+<rect x="742" y="106" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="742,136 742,106 784,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="742,136 784,136 784,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="763.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">57</text>
+<rect x="742" y="142" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="742,172 742,142 784,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="742,172 784,172 784,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="763.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">58</text>
+<rect x="742" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="742,208 742,178 784,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="742,208 784,208 784,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="763.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">59</text>
+<text x="811.0" y="60" text-anchor="middle" font-size="11" fill="#3A3E52">S15</text>
+<rect x="790" y="70" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="790,100 790,70 832,70" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="790,100 832,100 832,70" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="811.0" y="89.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">60</text>
+<rect x="790" y="106" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="790,136 790,106 832,106" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="790,136 832,136 832,106" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="811.0" y="125.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">61</text>
+<rect x="790" y="142" width="42" height="30" fill="#D6D9E3"/>
+<polyline points="790,172 790,142 832,142" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="790,172 832,172 832,142" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="811.0" y="161.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#7A7F96">62</text>
+<rect x="790" y="178" width="42" height="30" fill="#2E3142"/>
+<polyline points="790,208 790,178 832,178" fill="none" stroke="#FFFFFF" stroke-opacity="0.45" stroke-width="1.5"/>
+<polyline points="790,208 832,208 832,178" fill="none" stroke="#000000" stroke-opacity="0.35" stroke-width="1.5"/>
+<text x="811.0" y="197.0" text-anchor="middle" font-size="11" font-family="Courier New, monospace" font-weight="bold" fill="#AEB2C3">63</text>
+<rect x="20" y="240" width="18" height="18" fill="#5F6377" stroke="#3A3E52" stroke-width="1"/>
+<text x="48" y="254" font-size="13" fill="#1E2030">厂商块，只读</text>
+<rect x="320" y="240" width="18" height="18" fill="#2E3142" stroke="#3A3E52" stroke-width="1"/>
+<text x="348" y="254" font-size="13" fill="#1E2030">扇区尾块，存放扇区密钥，不写入</text>
+<rect x="620" y="240" width="18" height="18" fill="#B24D7A" stroke="#3A3E52" stroke-width="1"/>
+<text x="648" y="254" font-size="13" fill="#1E2030">属性区 128 字节</text>
+<rect x="20" y="270" width="18" height="18" fill="#E0A800" stroke="#3A3E52" stroke-width="1"/>
+<text x="48" y="284" font-size="13" fill="#1E2030">安全区 32 字节</text>
+<rect x="320" y="270" width="18" height="18" fill="#1FAE3C" stroke="#3A3E52" stroke-width="1"/>
+<text x="348" y="284" font-size="13" fill="#1E2030">密码区 401 字节</text>
+<rect x="620" y="270" width="18" height="18" fill="#D6D9E3" stroke="#3A3E52" stroke-width="1"/>
+<text x="648" y="284" font-size="13" fill="#1E2030">未使用 191 字节</text>
+</svg>

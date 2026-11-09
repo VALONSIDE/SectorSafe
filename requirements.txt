@@ -1,0 +1,4 @@
+# SectorSafe beta_v0.1
+# Python 3.9+，Tkinter 随 Python 一起安装
+cryptography>=42.0
+pyscard>=2.0
